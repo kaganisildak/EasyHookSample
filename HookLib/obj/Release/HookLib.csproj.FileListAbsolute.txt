@@ -1,0 +1,14 @@
+C:\Users\kagan\source\repos\EasyHookSample\HookLib\bin\Release\EasyHook32.dll
+C:\Users\kagan\source\repos\EasyHookSample\HookLib\bin\Release\EasyHook32Svc.exe
+C:\Users\kagan\source\repos\EasyHookSample\HookLib\bin\Release\EasyHook64.dll
+C:\Users\kagan\source\repos\EasyHookSample\HookLib\bin\Release\EasyHook64Svc.exe
+C:\Users\kagan\source\repos\EasyHookSample\HookLib\bin\Release\EasyLoad32.dll
+C:\Users\kagan\source\repos\EasyHookSample\HookLib\bin\Release\EasyLoad64.dll
+C:\Users\kagan\source\repos\EasyHookSample\HookLib\bin\Release\HookLib.dll
+C:\Users\kagan\source\repos\EasyHookSample\HookLib\bin\Release\HookLib.pdb
+C:\Users\kagan\source\repos\EasyHookSample\HookLib\bin\Release\EasyHook.dll
+C:\Users\kagan\source\repos\EasyHookSample\HookLib\bin\Release\EasyHook.xml
+C:\Users\kagan\source\repos\EasyHookSample\HookLib\obj\Release\HookLib.csproj.CoreCompileInputs.cache
+C:\Users\kagan\source\repos\EasyHookSample\HookLib\obj\Release\HookLib.csproj.CopyComplete
+C:\Users\kagan\source\repos\EasyHookSample\HookLib\obj\Release\HookLib.dll
+C:\Users\kagan\source\repos\EasyHookSample\HookLib\obj\Release\HookLib.pdb
